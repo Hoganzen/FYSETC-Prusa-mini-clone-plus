@@ -1,12 +1,8 @@
 # FYSETC-Prusa-mini-clone-plus
 This machine is base on Prusa mini clone and has a longer size heater bed.
 
-## Firmware
-
-The instructions are in README.md file in  ```firmware``` folder. 
-
-
 ## Parameter
+
 Model： PRUSA MINI Plus
 Printing Method:FDM  (Fused Deposition Molding)
 Printing Size:180x250x180mm
@@ -21,6 +17,10 @@ N.W.:5.9kg
 Machine Size:325x355x380
 G.W.:6.9kg	
 Package Size:410x310x150
+
+## Firmware
+
+The instructions are in README.md file in  ```firmware``` folder. 
 
 ## STL
 No change, the same as the original version.
