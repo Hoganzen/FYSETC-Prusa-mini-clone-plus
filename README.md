@@ -24,4 +24,5 @@ The instructions are in README.md file in  ```firmware``` folder.
 
 ## STL
 No change, the same as the original version.
-
+Official version：https://www.prusa3d.com/prusa-i3-printable-parts/
+Clone version：https://www.thingiverse.com/thing:4338197
